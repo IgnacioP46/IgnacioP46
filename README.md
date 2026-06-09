@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Ignacio
 
 💻 **Desarrollador Web en formación** con experiencia previa en liderazgo y gestión de equipos en el sector de la cocina, ahora aplicando esas habilidades al mundo de la programación.  
-📚 Estudiante de **Desarrollo Web Full Stack** y **DAW**, apasionado por la creación de aplicaciones funcionales y bien estructuradas.  
+📚  **Desarrollador Web Full Stack** y **DAW**, apasionado por la creación de aplicaciones funcionales y bien estructuradas.  
 🚀 Me interesa crecer como **junior developer**, aportando soluciones prácticas y aprendiendo en un entorno colaborativo.
 
 ---
