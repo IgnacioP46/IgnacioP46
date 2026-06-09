@@ -7,10 +7,10 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vite, Figma  
-- **Backend:** Node.js, Express  
+- **Frontend:** JavaScript (ES6+), TipeScript React, Vite, HTML5, CSS3 
+- **Backend:** Node.js, Express, C#, .Net 
 - **Bases de Datos:** MongoDB, SQL  
-- **Otros:** Git, GitHub, APIs REST, Cloudinary, Postman  
+- **Otros:** Git, GitHub, APIs REST, Cloudinary, Postman, Figma,  
 - **Lenguajes adicionales:** Java, Python  
 
 ---
